@@ -4,10 +4,11 @@
 // operators
 // logical operators
 // conditionals
-// loops ✅
+// functions
+// loops
 // objects
-// arrays
-// array methods
+// arrays ✅
+// array methods, es6
 // callbacks
 
 // promises
