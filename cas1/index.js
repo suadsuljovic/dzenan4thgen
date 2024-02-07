@@ -7,10 +7,11 @@
 // functions
 // loops
 // objects
-// arrays ✅
+// arrays
+// callbacks ✅
 // array methods, es6
-// callbacks
 
+// classes
 // promises
 // event loop
 // async await
@@ -20,7 +21,6 @@
 
 // hoisting
 // closure
-// classes
 // es6 js
 
 // var newVar = "ssadf";
