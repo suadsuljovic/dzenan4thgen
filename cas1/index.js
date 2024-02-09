@@ -19,6 +19,9 @@
 // DOM manipulation
 // events
 
+// package.json
+// modules
+
 // hoisting
 // closure
 // es6 js
