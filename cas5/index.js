@@ -99,3 +99,53 @@ const mockData = [
 ];
 
 // napravite niz samo imena
+
+const userNames = mockData.map((value) => {
+  return value.name;
+});
+
+// napravite niz koji ima ime i prezime u stringu
+
+const userNamesAndSurnames = mockData.map((value) => {
+  return value.name + " " + value.surname;
+});
+
+console.log(userNamesAndSurnames);
+
+// napraviti niz svih korisnika koji su stariji od 24
+
+const olderThen24 = mockData.filter((value) => {
+  return value.age > 24;
+});
+
+// niz svih korsinika cije prvo slovo imena je samoglasnik a,e,i,o,u
+
+const newArray = mockData.filter((value) => {
+  //   switch (value.name[0].toLowerCase()) {
+  //     case "a":
+  //     case "e":
+  //     case "i":
+  //     case "o":
+  //     case "u":
+  //       return true;
+  //       break;
+  //     default:
+  //       return false;
+  //   }
+
+  switch (["a", "e", "i", "o", "u"].includes(value.name[0].toLowerCase())) {
+    case true:
+      return true;
+    default:
+      return false;
+  }
+});
+
+console.log(newArray);
+
+// napravati search functionality gde na osnovu variable search
+// filtriramo array po imenu
+
+const search = "A";
+
+const found = mockData.filter((value) => {});
