@@ -1,15 +1,15 @@
-// primitives
-// complex types
-// const let
-// operators
-// logical operators
-// conditionals
-// functions
-// loops
-// objects
-// arrays
+// primitives ✅
+// complex types ✅
+// const let ✅
+// operators ✅
+// logical operators ✅
+// conditionals ✅
+// functions ✅
+// loops ✅
+// objects ✅
+// arrays ✅
 // callbacks ✅
-// array methods, es6
+// array methods, es6 ✅
 
 // classes
 // promises
@@ -22,9 +22,9 @@
 // package.json
 // modules
 
-// hoisting
+// hoisting ✅
 // closure
-// es6 js
+// es6 js ✅
 
 // var newVar = "ssadf";
 
