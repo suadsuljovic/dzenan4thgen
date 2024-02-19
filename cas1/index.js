@@ -11,7 +11,7 @@
 // callbacks ✅
 // array methods, es6 ✅
 
-// classes
+// classes ✅
 // event loop
 // promises
 // async await
