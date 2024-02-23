@@ -12,9 +12,9 @@
 // array methods, es6 ✅
 
 // classes ✅
-// event loop
-// promises
-// async await
+// event loop ✅
+// promises ✅
+// async await, es6
 // DOM & BOM
 // DOM manipulation
 // events
