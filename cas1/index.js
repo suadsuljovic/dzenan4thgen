@@ -14,7 +14,7 @@
 // classes ✅
 // event loop ✅
 // promises ✅
-// async await, es6
+// async await, es6 ✅
 // DOM & BOM
 // DOM manipulation
 // events
