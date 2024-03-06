@@ -17,7 +17,7 @@
 // async await, es6 ✅
 // DOM & BOM ✅
 // DOM manipulation ✅
-// events
+// events ✅
 
 // package.json
 // modules
