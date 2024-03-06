@@ -15,8 +15,8 @@
 // event loop ✅
 // promises ✅
 // async await, es6 ✅
-// DOM & BOM
-// DOM manipulation
+// DOM & BOM ✅
+// DOM manipulation ✅
 // events
 
 // package.json
