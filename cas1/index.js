@@ -20,7 +20,7 @@
 // events ✅
 
 // package.json
-// modules
+// modules and es6
 
 // hoisting ✅
 // closure
